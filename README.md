@@ -10,3 +10,8 @@ statistical analysis that can be performed on data an how to do it using python.
     * ND
     * summary
 
+2) Characterising
+    * intro 
+    * characterising1D
+    * characterisingND
+    * Summary 
