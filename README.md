@@ -14,4 +14,8 @@ statistical analysis that can be performed on data an how to do it using python.
     * intro 
     * characterising1D
     * characterisingND
-    * Summary 
+    * Summary
+    
+3) Probability
+    * probability_refresher
+    * probability_distributions_practical_examples
